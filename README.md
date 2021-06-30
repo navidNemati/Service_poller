@@ -13,5 +13,5 @@ There are 3 frames (Data Frame, Buttons, and Get Status) and 5 buttons (Choose F
 
 Note that, after adding, deleting or updating, user needs to press "Load File" to see the new data frame. 
 
-Caveat: .csv should have these 4 columns:  "Address", "Last_update", "Status", and "Time_added". 
+Caveat: .csv file should have these 4 columns:  "Address", "Last_update", "Status", and "Time_added". 
 
