@@ -1,5 +1,5 @@
 # Service_poller
-GUI made by Python. This GUI provides status of URL with "Ok" or "Fail"
+GUI made by Python. This GUI provides status of the URLs with "Ok" or "Fail"
 
 # Instruction 
 There are 3 frames (Data Frame, Buttons, and Get Status) and 5 buttons (Choose File, Load File, Get Status, Add URL, Delete URL, Update)
